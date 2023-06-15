@@ -15,7 +15,10 @@ SALOME, an open-source framework that has been under development since the early
 - [User documenatation page for SALOME 9.10](https://docs.salome-platform.org/latest/main/gui.html)
 - [Developer documenatation page for SALOME 9.10](https://docs.salome-platform.org/latest/main/tui.html)
 
+## How to install SALOME ? 
 
+- If you are looking to use SALOME, we provide precompiled binaries which simplifies the installation process. You can find these binaries [here](https://www.salome-platform.org/?page_id=2433)
+- For developers who are looking to self install SALOME we highly recommend using [*SAT*](https://github.com/SalomePlatform/sat). Our [wiki]() page explains more detailed procedure on self installation via *SAT*. One can also follow [Cmake](https://cmake.org/) based self installation procedure explained [here](https://docs.salome-platform.org/latest/dev/cmake/html/index.html)
 
 ## How do I contribute to SALOME on GitHub ? ##
 
@@ -30,7 +33,7 @@ Let us take an example that you want to contribute to our *shaper* source code. 
 - Switch to the *develop* branch using the command `git checkout -b develop`
 - Make the necessary modifications to the source code files.
 - After completing the changes (we highly recommend testing them locally),  [add -> commit -> push](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the changes to your forked *shaper* repository.
-- Visit the *shaper* repository on [SalomePlatform](https://github.com/SalomePlatform) GitHub page and create a pull-request - Learn how to create a pull request [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
+- Visit the *shaper* repository on [SalomePlatform](https://github.com/SalomePlatform) GitHub page and create a pull-request. Learn how to create a pull request [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 	- The pull request will trigger a series of CI tests to ensure SALOME compiles and remains stable.
 	- A SALOME expert will be assigned as a [Reviewer](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews) for your pull request.
 	- Expect communication with the reviewer regarding code edits, understanding the proposed changes, possible modifications, etc.
