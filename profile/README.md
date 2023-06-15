@@ -23,11 +23,11 @@ Our policy requires new developments to be made in the *develop* branches of Sal
 
 #### How do I, as an external devleloper, open a pull-request for my developments? ####
 
-Let us take an example that you wants to contibute to our *shaper* source code. So here is what you need to do 
+Let us take an example that you want to contribute to our *shaper* source code. So here is what you need to do 
 
-- Fork the *shaper* repository from to your personal GitHub account. Learn how to fork [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+- Fork the *shaper* repository from  your personal GitHub account. Learn how to fork [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 - Clone this forked repository to your local machine. Find instructions on how to clone a repository [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) 
-- Switch to the *devel* branch using the command `git checkout -b devel`
+- Switch to the *develop* branch using the command `git checkout -b develop`
 - Make the necessary modifications to the source code files.
 - After completing the changes (we highly recommend testing them locally),  [add -> commit -> push](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the changes to your forked *shaper* repository.
 - Visit the *shaper* repository on [SalomePlatform](https://github.com/SalomePlatform) GitHub page and create a pull-request - Learn how to create a pull request [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
@@ -38,7 +38,7 @@ Let us take an example that you wants to contibute to our *shaper* source code. 
 	
 	
 
-## How to Cite SALOME ? ##
+## How to cite SALOME ? ##
 
 #### BibTeX ####
 ```
