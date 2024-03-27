@@ -11,9 +11,9 @@ SALOME, an open-source framework that has been under development since the early
 
 - <img width="100" src="https://github.com/SalomePlatform/.github-private/assets/52162083/773f978a-a1ca-4490-9d50-da377c8168ff" /> $~~$ OCC - Open Cascade Technology
 
-## Where can I find SALOME documentation ? ##
-- [User documenatation page for SALOME 9.10](https://docs.salome-platform.org/latest/main/gui.html)
-- [Developer documenatation page for SALOME 9.10](https://docs.salome-platform.org/latest/main/tui.html)
+## Where can I find the latest SALOME documentation ? ##
+- [User documentation page for SALOME](https://docs.salome-platform.org/latest/main/gui.html)
+- [Developer documentation page for SALOME](https://docs.salome-platform.org/latest/main/tui.html)
 
 ## How to install SALOME ? 
 
