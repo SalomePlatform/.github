@@ -18,7 +18,7 @@ SALOME, an open-source framework that has been under development since the early
 ## How to install SALOME ? 
 
 - If you are looking to use SALOME, we provide precompiled binaries which simplifies the installation process. You can find these binaries [here](https://www.salome-platform.org/?page_id=2433)
-- For developers who are looking to self install SALOME we highly recommend using [*SAT*](https://github.com/SalomePlatform/sat). Our [wiki]() page explains more detailed procedure on self installation via *SAT*. One can also follow [Cmake](https://cmake.org/) based self installation procedure explained [here](https://docs.salome-platform.org/latest/dev/cmake/html/index.html)
+- For developers who are looking to self install SALOME we highly recommend using [*SAT*](https://github.com/SalomePlatform/sat). Our [wiki](https://github.com/SalomePlatform/.github/wiki/) page explains more detailed procedure on self installation via *SAT*. One can also follow [Cmake](https://cmake.org/) based self installation procedure explained [here](https://docs.salome-platform.org/latest/dev/cmake/html/index.html)
 
 ## How do I contribute to SALOME on GitHub ? ##
 
