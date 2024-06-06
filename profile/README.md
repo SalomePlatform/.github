@@ -38,3 +38,4 @@ Let us take an example that you want to contribute to our *shaper* source code. 
 	- Expect communication with the reviewer regarding code edits, understanding the proposed changes, possible modifications, etc.
 - The reviewer will handle the merging of your changes into the SALOME source code.
 
+![](https://komarev.com/ghpvc/?username=SalomePlatform&style=for-the-badge&color=green&abbreviated=true)
