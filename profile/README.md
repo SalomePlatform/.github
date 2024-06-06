@@ -22,7 +22,7 @@ SALOME, an open-source framework that has been under development since the early
 
 ## How do I contribute to SALOME on GitHub ? ##
 
-Our policy requires new developments to be made in the *develop* branches of SalomePlatform repositories. The *main* branches remain stable at the previous release. As an external developer, we accept [pull-requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) for source code improvements or modifications specifically for the develop branches of the relevant repository where you want to contribute. 
+As an external developer, we accept [pull-requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) for source code improvements or modifications specifically for the *main* branches of the relevant repository where you want to contribute. 
 
 #### How do I, as an external developer, open a pull-request for my developments? ####
 
