@@ -5,11 +5,25 @@ Numerical simulation in various industries relies on high-performance methods in
 
 ## Who is responsible for developing SALOME ? ##
 SALOME, an open-source framework that has been under development since the early 2000s, boasts an extensive list of individuals and partners who have contributed to its evolution. The collaborative efforts of these key partners have been instrumental in shaping SALOME into what it is today:
-- <img width="60" src="https://github.com/SalomePlatform/.github-private/assets/52162083/f82b82a2-c27e-40ce-a439-34dd0430a3ee" />  $~~~~~~~~~~~$ CEA - French Alternative Energies and Atomic Energy Commission
 
-- <img width="100" src="https://github.com/SalomePlatform/.github-private/assets/52162083/9edfe76e-a35b-4737-9b4c-85039c30ef79" /> $~~$ EDF - Électricité de France 
+<p>
+  <img width="60" src="https://github.com/SalomePlatform/.github-private/assets/52162083/f82b82a2-c27e-40ce-a439-34dd0430a3ee" alt="CEA Logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  CEA - French Alternative Energies and Atomic Energy Commission
+</p>
 
-- <img width="100" src="https://github.com/SalomePlatform/.github-private/assets/52162083/773f978a-a1ca-4490-9d50-da377c8168ff" /> $~~$ OCC - Open Cascade Technology
+<p>
+  <img width="100" src="https://github.com/SalomePlatform/.github-private/assets/52162083/9edfe76e-a35b-4737-9b4c-85039c30ef79" alt="EDF Logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  EDF - Électricité de France
+</p>
+
+<p>
+  <img width="100" src="https://github.com/SalomePlatform/.github-private/assets/52162083/773f978a-a1ca-4490-9d50-da377c8168ff" alt="OCC Logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  OCC - Open Cascade Technology
+</p>
+
 
 ## Where can I find the latest SALOME documentation ? ##
 - [User documentation page for SALOME](https://docs.salome-platform.org/latest/main/gui.html)
